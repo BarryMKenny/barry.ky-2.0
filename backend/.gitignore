@@ -1,6 +1,8 @@
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 /src/main/resources/barry.ky.p12
+website.log
+*.log
 
 ### STS ###
 .apt_generated
